@@ -1,4 +1,4 @@
-Infix to Postfix
+//Infix to Postfix
 
 #include <stdio.h>
 #include <ctype.h>
