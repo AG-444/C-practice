@@ -33,4 +33,3 @@ int main()
     cout << "Perimeter of triangle = " << triangle1.perimeter() << endl;
     cout << "Area of triangle = " << triangle1.area() << endl;
 }
-____
