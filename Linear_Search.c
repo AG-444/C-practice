@@ -14,7 +14,8 @@ int main()
 
     printf("Enter the element to search ie. key element: ");
     scanf("%d", &key);
-
+    
+    //check for match in array
     for (index = 0; index < size; index++)
         if (arr[index] == key)                                 
             break;                                             
