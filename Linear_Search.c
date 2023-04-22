@@ -2,7 +2,8 @@
 int main()
 {
     int arr[20], size, key, i, index;
-
+    
+    //input for number of elements
     printf("Number of elements in the array: ");
     scanf("%d", &size);
 
