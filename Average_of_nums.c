@@ -46,4 +46,5 @@ int main()
     printf("The average of positive number is: %0.2f\n",pos_avg);
     printf("The average of negative number is: %0.2f\n",neg_avg);
     return 0;
+    
 }
