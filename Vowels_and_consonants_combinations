@@ -1,6 +1,3 @@
-
-
-
 /*Write a C-Program to find the Number of ways of selecting words from n-consonats and mvowels when r1-consonants and r2 vowels are chosen.
 i.e ncr1 * mcr2
 Make sure entered numbers are valid to calculate factorial.*/
