@@ -1,5 +1,3 @@
-//bonus based on hours
-
 #include <stdio.h>  
 #include<string.h>  
 int main()  
