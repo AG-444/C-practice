@@ -3,6 +3,7 @@ Find the average of positive numbers and negative numbers entered by user*/
 
 #include<stdio.h>
 
+
 int main()
 {
     float i,pos=0,pos_counter=0,neg=0,neg_counter=0;
