@@ -31,7 +31,6 @@ int hex(int n)
     printf("%X", decimalNumber);
     return 0;
 }
-
 int BINARY(int decimal)
 {
     int binary = 0, rem = 0, digit = 1;
