@@ -1,7 +1,6 @@
-//binary and hexadecimal
-
 /*Write a c-program to display the binary format of the user entered number if it is
 prime else display In hexadecimal format*/
+
 #include <stdio.h>
 
 int prime(int n)
