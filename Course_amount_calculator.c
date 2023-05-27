@@ -1,5 +1,3 @@
-//course amount calculator
-
 /*An online educational platform offers three courses: Programming Courses, Robotics
 Courses and Academic Writing Courses : The vendor gives a discount of 10% on orders
 for programming based courses if the order is for more than Rs. 1000.
