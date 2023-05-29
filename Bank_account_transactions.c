@@ -5,7 +5,6 @@
 int main()
 {
     int balance = 30000, n, value;
-
     do
     {
         scanf("%d", &n);
