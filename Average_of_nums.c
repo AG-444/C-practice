@@ -1,4 +1,4 @@
-/*Construct a program to read the numbers until -1 is encountered. 
+/*Construct a program to read the numbers until -1 is encountered.
 Find the average of positive numbers and negative numbers entered by user*/
 #include<stdio.h>
 
