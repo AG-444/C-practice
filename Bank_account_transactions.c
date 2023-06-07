@@ -1,7 +1,6 @@
 //Bank account transactions
 
 #include <stdio.h>
-
 int main()
 {
     int balance = 30000, n, value;
