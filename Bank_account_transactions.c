@@ -1,5 +1,4 @@
 //Bank account transactions
-
 #include <stdio.h>
 int main()
 {
