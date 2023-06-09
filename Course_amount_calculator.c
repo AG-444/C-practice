@@ -8,7 +8,6 @@ Academic Writing Courses respectively.
 Get the max 5 student registration for each courses Write a program that reads the
 product code and the order amount and prints out the net amount that the learner is
 required to pay after the discount.*/
-
 #include <stdio.h>
 
 int main()
